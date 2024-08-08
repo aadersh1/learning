@@ -1,4 +1,4 @@
 # learning
-learning git.
+Learning git.
 
-on this day 8/08/24 our team created this repository.
+On this day 8/08/24 our team created this repository.
